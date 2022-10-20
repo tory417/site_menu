@@ -1,0 +1,31 @@
+body{
+	background-color: #f5f5f5;
+	padding-top: 20px;
+}
+ul{
+	width: 300px;
+	background-color: #808080;
+	color:white;
+	font-family: Segoe UI;
+	font-size: 20px;
+	list-style-type: none;
+	float: left;
+	padding-left: 0px;
+	margin: 15px;
+}
+li{
+	display: flex;
+	align-items: center;
+}
+img{
+	width: 80px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+a:hover{
+	background-color: #5e5e5e;
+}
+
